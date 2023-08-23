@@ -7,3 +7,5 @@ class User
     "harry@example.com"
   end
 end
+
+yo
